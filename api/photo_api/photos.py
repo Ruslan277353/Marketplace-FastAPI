@@ -17,3 +17,4 @@ async def add_photos(product_id: int, photo_path: List[UploadFile] = File(...)):
             add_photo_db(product_id, file_location)
             saved_files.append(file_location)
     return {'status': 1, 'message': 'Фото добавлено'}
+
