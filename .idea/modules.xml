@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MarketplaceAPI(FastAPI).iml" filepath="$PROJECT_DIR$/.idea/MarketplaceAPI(FastAPI).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MarketplaceFastAPI.iml" filepath="$PROJECT_DIR$/.idea/MarketplaceFastAPI.iml" />
     </modules>
   </component>
 </project>
